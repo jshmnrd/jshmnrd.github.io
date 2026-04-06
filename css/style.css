@@ -62,7 +62,7 @@ a {
 a:hover {
     color: var(--green);
     text-decoration:underline 1px wavy var(--green);
-    cursor:alias;
+    cursor:url("/images/icons/d20.svg"),alias;
 }
 
 /* Buttons */
